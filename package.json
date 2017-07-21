@@ -1,0 +1,16 @@
+{
+  "name": "webrtcscreensharebackend",
+  "version": "1.0.0",
+  "description": "Backend for WebRTCScreenShare",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Shivang Saxena",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^16.5.0",
+    "inert": "^4.2.0"
+  }
+}
